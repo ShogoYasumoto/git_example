@@ -4,6 +4,7 @@ int main(void)
 {
 	using namespace std;
 	
+	cout << "Hello from me";
 	cout << "Hello from collaborater";
 	
     return 0;
