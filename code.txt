@@ -1,3 +1,6 @@
-dsa
-このコードは動く
-機能１の追加
+#include <iostream>
+
+int main(void)
+{
+    return 0;
+}
